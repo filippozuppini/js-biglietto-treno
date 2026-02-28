@@ -22,8 +22,8 @@ const eta_passeggero = prompt('Quanti anni hai?')
 
 const costo_biglietto = n_chilometri*0.21
 
-const sconto_giovani = 0.80
-const sconto_anziani = 0.60
+const sconto_giovani = 0.80 //sconto 20%
+const sconto_anziani = 0.60 //sconto 40%
 
 let prezzo_giovani
 let prezzo_anziani
